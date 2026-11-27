@@ -1,0 +1,455 @@
+[
+  {
+    "id": "gg",
+    "de": "Grundgesetz & Grundrechte",
+    "en": "Constitution & basic rights",
+    "facts": [
+      [
+        "1949",
+        "<b>Grundgesetz</b>, in force since 23 May 1949",
+        "The constitution of the Federal Republic"
+      ],
+      [
+        "Art. 1",
+        "<b>Die Würde des Menschen ist unantastbar.</b>",
+        "Human dignity is inviolable"
+      ],
+      [
+        "Art. 20",
+        "<b>Alle Staatsgewalt geht vom Volke aus.</b>",
+        "Volkssouveränität; Germany is a democratic and social federal state"
+      ],
+      [
+        "Rechte",
+        "Meinungs-, Presse-, Glaubens-, Versammlungsfreiheit, Freizügigkeit",
+        "Opinion, press, faith, assembly, free choice of residence"
+      ],
+      [
+        "Verboten",
+        "Zwangsarbeit, Todesstrafe, Folter, Prügelstrafe",
+        "Forced labour, death penalty, torture, corporal punishment"
+      ],
+      [
+        "Grenzen",
+        "Spreading <b>false claims</b> about people is not protected",
+        "Freedom of opinion has limits"
+      ],
+      [
+        "Asyl",
+        "The only basic right just for foreigners",
+        ""
+      ],
+      [
+        "Staat",
+        "State and religion are <b>separate</b>",
+        "No state church"
+      ],
+      [
+        "Verfassungswidrig",
+        "A party aiming for dictatorship is unconstitutional",
+        ""
+      ]
+    ]
+  },
+  {
+    "id": "st",
+    "de": "Staat & Verfassungsorgane",
+    "en": "State & institutions",
+    "facts": [
+      [
+        "16",
+        "<b>Bundesländer</b>, each with its own government",
+        "Most are led by a Ministerpräsident/in"
+      ],
+      [
+        "3 Ebenen",
+        "<b>Bund, Länder, Kommunen</b>",
+        "Lowest level: Gemeinden"
+      ],
+      [
+        "Gewalten",
+        "Legislative (Bundestag, Bundesrat) · Exekutive (Regierung, Polizei, Ämter) · Judikative (Gerichte)",
+        "The press is NOT a state power"
+      ],
+      [
+        "Kanzler",
+        "Elected by the <b>Bundestag</b>, leads the cabinet",
+        "Currently Friedrich Merz"
+      ],
+      [
+        "Präsident",
+        "Head of state, <b>represents</b> the country",
+        "Elected by the Bundesversammlung; proposes the chancellor, appoints ministers. Currently Frank-Walter Steinmeier"
+      ],
+      [
+        "Bundesrat",
+        "Representatives of the <b>state governments</b>",
+        "States take part in federal laws through it"
+      ],
+      [
+        "Karlsruhe",
+        "<b>Bundesverfassungsgericht</b> interprets the GG",
+        ""
+      ],
+      [
+        "Fraktion",
+        "MPs of one party in parliament",
+        "Largest groups now: CDU/CSU and AfD"
+      ],
+      [
+        "Symbole",
+        "Flag <b>schwarz-rot-gold</b>, eagle (Adler); anthem: Einigkeit und Recht und Freiheit",
+        "84 million inhabitants"
+      ]
+    ]
+  },
+  {
+    "id": "wa",
+    "de": "Wahlen & Parteien",
+    "en": "Elections & parties",
+    "facts": [
+      [
+        "4 Jahre",
+        "<b>Bundestag</b> elected every 4 years",
+        "German citizens 18+"
+      ],
+      [
+        "Grundsätze",
+        "<b>frei, gleich, geheim</b> (+ allgemein, unmittelbar)",
+        "Free = no pressure, no disadvantage"
+      ],
+      [
+        "Recht",
+        "Voting is a <b>right</b>, not a duty",
+        "aktives Wahlrecht = you can vote"
+      ],
+      [
+        "Zweitstimme",
+        "More Zweitstimmen → more <b>seats</b>",
+        "System: mix of majority and proportional voting"
+      ],
+      [
+        "5 %",
+        "Minimum share to enter the Bundestag",
+        "Many small parties would make forming a government hard"
+      ],
+      [
+        "Koalition",
+        "Parties governing together",
+        "Ampel = SPD, FDP, Grüne"
+      ],
+      [
+        "Briefwahl",
+        "Postal voting is allowed",
+        "Before an election you get a Wahlbenachrichtigung from the Gemeinde"
+      ],
+      [
+        "Wahlhelfer",
+        "Count the votes after the election",
+        ""
+      ],
+      [
+        "CDU/CSU/SPD/FDP",
+        "Christlich Demokratische / Christlich Soziale Union · Sozialdemokratische · Freie Demokratische Partei",
+        ""
+      ]
+    ]
+  },
+  {
+    "id": "h1",
+    "de": "Geschichte 1933–1945",
+    "en": "History: Nazi era",
+    "facts": [
+      [
+        "1933–1945",
+        "Nazis in power; <b>Diktatur</b>",
+        "No free elections, press censorship, parties banned, state racism"
+      ],
+      [
+        "1933",
+        "Hitler becomes Reichskanzler",
+        ""
+      ],
+      [
+        "9.11.1938",
+        "Synagogues and Jewish shops destroyed",
+        ""
+      ],
+      [
+        "1939–1945",
+        "<b>Zweiter Weltkrieg</b>",
+        ""
+      ],
+      [
+        "20.7.1944",
+        "<b>Stauffenberg</b>: assassination attempt on Hitler",
+        ""
+      ],
+      [
+        "8.5.1945",
+        "End of WWII in Europe",
+        "Unconditional surrender"
+      ],
+      [
+        "27. Januar",
+        "Remembrance day for victims of National Socialism",
+        "Liberation of Auschwitz"
+      ]
+    ]
+  },
+  {
+    "id": "h2",
+    "de": "Geschichte 1945–1990",
+    "en": "History: division & reunification",
+    "facts": [
+      [
+        "1945",
+        "4 zones: <b>USA, UdSSR, GB, Frankreich</b>",
+        "Berlin split into 4 sectors"
+      ],
+      [
+        "Karte",
+        "Zones: north-west <b>GB</b>, east <b>UdSSR</b>, south incl. Bavaria <b>USA</b>, south-west <b>Frankreich</b>",
+        ""
+      ],
+      [
+        "1948/49",
+        "<b>Luftbrücke</b>: Soviets blocked land routes to West Berlin",
+        ""
+      ],
+      [
+        "1949",
+        "<b>BRD</b> and <b>DDR</b> founded; first chancellor Konrad Adenauer",
+        "DDR from Soviet zone; existed 1949–1990"
+      ],
+      [
+        "1950er",
+        "<b>Wirtschaftswunder</b>",
+        ""
+      ],
+      [
+        "17.6.1953",
+        "Strikes and uprising in the DDR",
+        ""
+      ],
+      [
+        "1961",
+        "DDR builds the <b>Mauer</b>",
+        "Opened 1989"
+      ],
+      [
+        "DDR",
+        "Planwirtschaft, Warschauer Pakt, Stasi (secret service)",
+        ""
+      ],
+      [
+        "1970",
+        "Brandt's Kniefall in Warsaw: asking forgiveness",
+        "Brandt = Ostverträge"
+      ],
+      [
+        "1989",
+        "Montagsdemos: <b>Wir sind das Volk</b>; die Wende",
+        ""
+      ],
+      [
+        "3.10.1990",
+        "<b>Tag der Deutschen Einheit</b>: 5 eastern states join",
+        "Helmut Kohl, Kanzler der Einheit; current borders since 1990"
+      ],
+      [
+        "Ex-DDR",
+        "Mecklenburg-Vorpommern, Brandenburg, Sachsen, Sachsen-Anhalt, Thüringen",
+        ""
+      ]
+    ]
+  },
+  {
+    "id": "jl",
+    "de": "Jüdisches Leben & Israel",
+    "en": "Jewish life & Israel (new questions)",
+    "facts": [
+      [
+        "1700",
+        "Jewish community on German soil for about <b>1700 years</b>",
+        ""
+      ],
+      [
+        "Synagoge",
+        "Jewish house of prayer",
+        ""
+      ],
+      [
+        "Berlin, München",
+        "Largest Jewish communities",
+        ""
+      ],
+      [
+        "Makkabi",
+        "Jewish sports clubs, open to <b>everyone</b>",
+        ""
+      ],
+      [
+        "Stolpersteine",
+        "Commemorate victims of National Socialism",
+        ""
+      ],
+      [
+        "Strafe",
+        "Holocaust denial: up to <b>5 years prison</b> or a fine",
+        "It is antisemitic"
+      ],
+      [
+        "Israel",
+        "Founded by a <b>UN resolution</b>",
+        "Calling for Israel's destruction is forbidden; criticising its policy is allowed"
+      ],
+      [
+        "Verantwortung",
+        "Germany's responsibility comes from the <b>Nazi crimes against Jews</b>",
+        ""
+      ]
+    ]
+  },
+  {
+    "id": "eu",
+    "de": "Europa",
+    "en": "Europe",
+    "facts": [
+      [
+        "1957",
+        "<b>Römische Verträge</b>: EWG founded",
+        "Germany is a founding member of the EU"
+      ],
+      [
+        "27",
+        "EU member states",
+        ""
+      ],
+      [
+        "5 Jahre",
+        "European Parliament elected every 5 years",
+        "Works in Straßburg, Luxemburg, Brüssel"
+      ],
+      [
+        "2002",
+        "Euro cash",
+        ""
+      ],
+      [
+        "Schengen",
+        "Travel in many European countries without passport checks",
+        ""
+      ],
+      [
+        "Nachbarn",
+        "DK, PL, CZ, AT, CH, FR, LU, BE, NL",
+        "Not neighbours: Spain, Portugal, Hungary, Norway…"
+      ],
+      [
+        "Ziel",
+        "Peace and security (Kohl & Mitterrand at Verdun)",
+        ""
+      ]
+    ]
+  },
+  {
+    "id": "al",
+    "de": "Recht, Arbeit & Alltag",
+    "en": "Law, work, family & everyday life",
+    "facts": [
+      [
+        "Ämter",
+        "Umzug → <b>Einwohnermeldeamt</b> · Heirat → <b>Standesamt</b> · Erziehung → <b>Jugendamt</b>",
+        ""
+      ],
+      [
+        "Gerichte",
+        "Arbeitsgericht for job disputes; Schöffen = volunteer judges",
+        "Rechtsanwalt advises and represents you"
+      ],
+      [
+        "Einspruch",
+        "Wrong tax bill → <b>Einspruch</b>; wrong bill from an authority → <b>Widerspruch</b>",
+        ""
+      ],
+      [
+        "Sozialvers.",
+        "Kranken-, Pflege-, Renten-, Arbeitslosenvers.",
+        "Paid by employers and employees; life insurance is NOT part"
+      ],
+      [
+        "Arbeit",
+        "Betriebsrat, Gewerkschaft, Kündigungsfrist",
+        "Pregnancy is never a reason for dismissal"
+      ],
+      [
+        "Alter",
+        "Volljährig 18 · strafmündig 14",
+        "Kindergarten place from age 3"
+      ],
+      [
+        "Familie",
+        "Only one spouse; parents raise children; hitting children is punishable",
+        "Trennungsjahr before divorce; divorce needs a lawyer"
+      ],
+      [
+        "Ruhe",
+        "Nachtruhe from <b>22 Uhr</b>",
+        ""
+      ],
+      [
+        "Feste",
+        "Weihnachten (Tannenbaum, Advent), Ostern (Eier), Pfingsten (Christian), Rosenmontag (costumes)",
+        ""
+      ],
+      [
+        "Migration",
+        "First Gastarbeiter from <b>Italien</b>; most migrants from <b>Türkei</b>",
+        "DDR: Vietnam, Polen, Mosambik"
+      ]
+    ]
+  },
+  {
+    "id": "by",
+    "de": "Bayern",
+    "en": "Bavaria: 3 of these 10 come up",
+    "facts": [
+      [
+        "München",
+        "Landeshauptstadt",
+        ""
+      ],
+      [
+        "Wappen",
+        "<b>Weiß-blaue Rauten</b> with a crown",
+        "Flag: weiß-blau"
+      ],
+      [
+        "5 Jahre",
+        "Landtag term",
+        "Local elections from age 18"
+      ],
+      [
+        "MP",
+        "Ministerpräsident/in",
+        "No foreign minister (Außenminister), as that is federal"
+      ],
+      [
+        "Altötting",
+        "A Landkreis in Bavaria",
+        ""
+      ],
+      [
+        "Info",
+        "Landeszentrale für politische Bildung",
+        ""
+      ],
+      [
+        "Karte",
+        "Bavaria is the large south-eastern state (number 4)",
+        ""
+      ]
+    ]
+  }
+]
